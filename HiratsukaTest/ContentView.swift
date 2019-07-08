@@ -11,6 +11,7 @@ import SwiftUI
 struct ContentView : View {
     var body: some View {
         Text("Hello World")
+//        Text("今日から俺は")
     }
 }
 
